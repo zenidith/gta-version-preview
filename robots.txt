@@ -1,5 +1,4 @@
-# Project-local file. Crawlers use https://zenidith.github.io/robots.txt at the host root.
-# This repository does not control that separate host-root file.
+# Project-local file, not host-root crawler policy.
 User-agent: *
 Allow: /
-Sitemap: https://zenidith.github.io/gta-version-preview/sitemap.xml
+# This retained copy uses noindex. Current site: https://coastal-game-guide.pages.dev/
