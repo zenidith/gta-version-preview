@@ -275,5 +275,13 @@
     ],
     "scope": "Imagined coastal city, island road and wetlands. Not gameplay, screenshots, actual game locations, maps or factual evidence. No copied game assets, logos or characters.",
     "planner": "Reading-route suggestions only. Uses existing guides; no purchase, account mutation or eligibility validation. No data saved or sent."
+  },
+  "search": {
+    "updated": "2026-11-19",
+    "indexing": "allowed, not guaranteed",
+    "sitemap": "https://zenidith.github.io/gta-version-preview/sitemap.xml",
+    "canonical": "Route-specific absolute canonical and hreflang set in the rendered DOM for query-driven primary pages. Legacy static pages also carry source canonical.",
+    "robots": "Project-local robots.txt is informational; crawler rules apply only at the hostname root. Host-root /robots.txt was 404 when checked, with no crawl prohibition.",
+    "verification": "URL-prefix property: homepage HTML tag or exact verification-file upload. Awaiting Google-issued token/file; no property verified by this work."
   }
 }
