@@ -278,10 +278,8 @@
   },
   "search": {
     "updated": "2026-11-19",
-    "indexing": "allowed, not guaranteed",
-    "sitemap": "https://zenidith.github.io/gta-version-preview/sitemap.xml",
-    "canonical": "Route-specific absolute canonical and hreflang set in the rendered DOM for query-driven primary pages. Legacy static pages also carry source canonical.",
-    "robots": "Project-local robots.txt is informational; crawler rules apply only at the hostname root. Host-root /robots.txt was 404 when checked, with no crawl prohibition.",
-    "verification": "URL-prefix property: homepage HTML tag or exact verification-file upload. Awaiting Google-issued token/file; no property verified by this work."
+    "indexing": "noindex,follow retained old copy",
+    "canonical": "https://coastal-game-guide.pages.dev/",
+    "migration": "New production site verified before this copy was retired; old links continue to work."
   }
 }
