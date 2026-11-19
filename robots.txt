@@ -1,0 +1,5 @@
+# Project-local file. Crawlers use https://zenidith.github.io/robots.txt at the host root.
+# This repository does not control that separate host-root file.
+User-agent: *
+Allow: /
+Sitemap: https://zenidith.github.io/gta-version-preview/sitemap.xml
