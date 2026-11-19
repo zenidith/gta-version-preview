@@ -17,13 +17,13 @@ function evaluate(platform,region,text,voice){
 window.evaluateLanguage=evaluate;
 const form=document.getElementById('checker');if(!form)return;
 for(const id of ['text','voice']){const field=document.getElementById(id);for(const language of data.languages){const o=document.createElement('option');o.value=language;o.textContent=langName(language);field.append(o);}}
-form.elements.text.value=({es:'Spanish',de:'German',ko:'Korean','pt-BR':'Portuguese (Brazil)'})[locale]||'Japanese';if(!form.elements.text.value)form.elements.text.value='Japanese';form.elements.voice.value='English';
+form.elements.text.value=({en:'English',es:'Spanish (Spain)',de:'German',ko:'Korean','pt-BR':'Portuguese (Brazil)'})[locale]||'Japanese';if(!form.elements.text.value)form.elements.text.value='Japanese';form.elements.voice.value='English';
 const picker=form.elements.region, search=document.getElementById('region-search');
 const sorted=[...data.regions].sort((a,b)=>regionName(a).localeCompare(regionName(b),locale));
 const groups={Asia:'JP KR HK TW SG IN ID MY TH VN PH CN',Oceania:'AU NZ',Americas:'US CA MX AR BR CL CO PE BO CR EC SV GT HN NI PA PY UY',Europe:'GB FR DE IT ES PT NL BE AT CH IE DK FI NO SE PL CZ SK HU GR TR RO BG HR SI UA LU MT CY IS RU',MiddleEast:'AE SA IL BH QA KW OM LB JO',Africa:'ZA MA TN'};
 const groupLabels={Asia:tr('Asia','アジア'),Oceania:tr('Oceania','オセアニア'),Americas:tr('Americas','南北アメリカ'),Europe:tr('Europe','ヨーロッパ'),MiddleEast:tr('Middle East','中東'),Africa:tr('Africa','アフリカ')};
 function populate(){
- const previous=picker.value||'JP',q=search.value.trim().toLocaleLowerCase();picker.replaceChildren();
+ const previous=picker.value||({en:'US',es:'ES',de:'DE',ko:'KR','pt-BR':'BR'})[locale]||'JP',q=search.value.trim().toLocaleLowerCase();picker.replaceChildren();
  for(const [key,codes] of Object.entries(groups)){
   const g=document.createElement('optgroup');g.label=groupLabels[key];
   for(const r of sorted.filter(r=>codes.split(' ').includes(r))){
