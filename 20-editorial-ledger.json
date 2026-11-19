@@ -1,0 +1,268 @@
+{
+  "checkedAt": "2026-11-19",
+  "scope": "Editorial guides and PS Store regional price snapshots. Not transaction quotes. See separate source-ledger.json for language evidence.",
+  "sources": {
+    "ps": {
+      "title": "GTA VI game page",
+      "publisher": "PlayStation",
+      "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "date": "Current page, checked 19 Nov 2026",
+      "type": "Official product guide",
+      "claims": "PS5, single-player, offline play, PS5 Pro features, 212GB, edition contents, PEGI 18."
+    },
+    "launch": {
+      "title": "Pre-load GTA VI on PS5 starting today",
+      "publisher": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
+      "date": "10 Nov 2026",
+      "type": "Official announcement",
+      "claims": "PS5 preload available, rolling midnight by country, PS5 Pro features."
+    },
+    "world": {
+      "title": "GTA VI launches tomorrow, November 19",
+      "publisher": "PlayStation Blog",
+      "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+      "date": "18 Nov 2026",
+      "type": "Official editorial",
+      "claims": "Jason and Lucia, six regions, radio, on-demand podcasts, headphones."
+    },
+    "cloud": {
+      "title": "GTA VI comes to Xbox Cloud Gaming",
+      "publisher": "Xbox Wire",
+      "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/",
+      "date": "10 Nov 2026",
+      "type": "Official announcement",
+      "claims": "Native Series X/S; cloud on Xbox One; 1am ET cloud launch; purchase and market/device caveats; paid playtime."
+    },
+    "order": {
+      "title": "Rockstar announces GTA VI pre-orders",
+      "publisher": "Take-Two / Rockstar",
+      "url": "https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/rockstar-games-announces-pre-orders-grand-theft-auto-vi/",
+      "date": "24 Jun 2026",
+      "type": "Publisher release",
+      "claims": "19 November release, US list prices, code-in-box, Ultimate and early-purchase offer. Old preload date superseded."
+    },
+    "esrb": {
+      "title": "Grand Theft Auto VI rating",
+      "publisher": "ESRB",
+      "url": "https://www.esrb.org/ratings/41627/grand-theft-auto-vi/",
+      "date": "Checked 19 Nov 2026",
+      "type": "Ratings board",
+      "claims": "Mature 17+, content descriptors, in-game purchases."
+    },
+    "performance": {
+      "title": "GTA VI targets 30fps on console",
+      "publisher": "Game Informer",
+      "url": "https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved",
+      "date": "10 Nov 2026",
+      "type": "Independent reporting",
+      "claims": "Reports and quotes Rockstar console 30fps target, not an independent benchmark."
+    },
+    "faq": {
+      "title": "GTA VI release-day questions",
+      "publisher": "Polygon",
+      "url": "https://www.polygon.com/gta-6-when-does-it-come-out-ps5-pro-crossplay-countdown-preorder-preload/",
+      "date": "14 Nov 2026",
+      "type": "Independent FAQ",
+      "claims": "Audience question selection and no announced PC release. Not used for download-size claim."
+    },
+    "support": {
+      "title": "GTA VI support",
+      "publisher": "PlayStation Support",
+      "url": "https://www.playstation.com/en-us/support/games/gta-vi-support/",
+      "date": "Checked 19 Nov 2026",
+      "type": "Official support",
+      "claims": "Code-in-box, preload, upgrades, account/code-region guidance."
+    },
+    "rockstar": {
+      "title": "Grand Theft Auto VI",
+      "publisher": "Rockstar Games",
+      "url": "https://www.rockstargames.com/VI",
+      "date": "Checked 19 Nov 2026",
+      "type": "Official game site",
+      "claims": "Release/platforms, official trailers, no PC date on checked page."
+    },
+    "jprating": {
+      "title": "Japanese rating and content-change caveat",
+      "publisher": "Game*Spark",
+      "url": "https://en.gamespark.jp/article/2026/10/17/1300.html",
+      "date": "17 Oct 2026",
+      "type": "Independent reporting",
+      "claims": "CERO Z reported; no announced content differences as of that report. Not proof of uncensored content."
+    },
+    "jpstore": {
+      "title": "Japanese PS Store GTA VI",
+      "publisher": "PlayStation Store Japan",
+      "url": "https://store.playstation.com/ja-jp/product/JP0230-PPSA29660_00-GTAVISTANDARD001/",
+      "date": "Checked 19 Nov 2026",
+      "type": "Official store",
+      "claims": "Japan price and CERO Z."
+    }
+  },
+  "prices": [
+    {
+      "region": "US",
+      "names": [
+        "United States",
+        "米国"
+      ],
+      "currency": "USD",
+      "standard": "$79.99",
+      "ultimate": "$99.99",
+      "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:28.291674+00:00"
+    },
+    {
+      "region": "GB",
+      "names": [
+        "United Kingdom",
+        "英国"
+      ],
+      "currency": "GBP",
+      "standard": "£69.99",
+      "ultimate": "£89.99",
+      "url": "https://store.playstation.com/en-gb/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/en-gb/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:28.292622+00:00"
+    },
+    {
+      "region": "DE",
+      "names": [
+        "Germany",
+        "ドイツ"
+      ],
+      "currency": "EUR",
+      "standard": "€79,99",
+      "ultimate": "€99,99",
+      "url": "https://store.playstation.com/de-de/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/de-de/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:28.578605+00:00"
+    },
+    {
+      "region": "FR",
+      "names": [
+        "France",
+        "フランス"
+      ],
+      "currency": "EUR",
+      "standard": "€79,99",
+      "ultimate": "€99,99",
+      "url": "https://store.playstation.com/fr-fr/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/fr-fr/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:28.691586+00:00"
+    },
+    {
+      "region": "AU",
+      "names": [
+        "Australia",
+        "オーストラリア"
+      ],
+      "currency": "AUD",
+      "standard": "$129.95",
+      "ultimate": "$159.95",
+      "url": "https://store.playstation.com/en-au/product/EP1004-PPSA38500_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/en-au/product/EP1004-PPSA38500_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:29.415355+00:00"
+    },
+    {
+      "region": "NZ",
+      "names": [
+        "New Zealand",
+        "ニュージーランド"
+      ],
+      "currency": "NZD",
+      "standard": "$139.95",
+      "ultimate": "$174.95",
+      "url": "https://store.playstation.com/en-nz/product/EP1004-PPSA38500_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/en-nz/product/EP1004-PPSA38500_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:29.855418+00:00"
+    },
+    {
+      "region": "JP",
+      "names": [
+        "Japan",
+        "日本"
+      ],
+      "currency": "JPY",
+      "standard": "¥9,800",
+      "ultimate": "¥12,280",
+      "url": "https://store.playstation.com/ja-jp/product/JP0230-PPSA29660_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/ja-jp/product/JP0230-PPSA29660_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:30.246280+00:00"
+    },
+    {
+      "region": "CA",
+      "names": [
+        "Canada",
+        "カナダ"
+      ],
+      "currency": "CAD",
+      "standard": "$109.99",
+      "ultimate": "$139.99",
+      "url": "https://store.playstation.com/en-ca/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/en-ca/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:31.138925+00:00"
+    },
+    {
+      "region": "SG",
+      "names": [
+        "Singapore",
+        "シンガポール"
+      ],
+      "currency": "SGD",
+      "standard": "SGD109.00",
+      "ultimate": "SGD136.00",
+      "url": "https://store.playstation.com/en-sg/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/en-sg/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:31.452731+00:00"
+    },
+    {
+      "region": "IN",
+      "names": [
+        "India",
+        "インド"
+      ],
+      "currency": "INR",
+      "standard": "Rs 5,999",
+      "ultimate": "Rs 7,499",
+      "url": "https://store.playstation.com/en-in/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/en-in/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:32.111195+00:00"
+    },
+    {
+      "region": "BR",
+      "names": [
+        "Brazil",
+        "ブラジル"
+      ],
+      "currency": "BRL",
+      "standard": "R$449,90",
+      "ultimate": "R$549,90",
+      "url": "https://store.playstation.com/pt-br/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/pt-br/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:32.519940+00:00"
+    },
+    {
+      "region": "MX",
+      "names": [
+        "Mexico",
+        "メキシコ"
+      ],
+      "currency": "MXN",
+      "standard": "1,292.24 MXN",
+      "ultimate": "1,619.83 MXN",
+      "url": "https://store.playstation.com/es-mx/product/EP1004-PPSA01547_00-GTAVISTANDARD001",
+      "ultimateUrl": "https://store.playstation.com/es-mx/product/EP1004-PPSA01547_00-GTAVIULTIMATE001",
+      "checkedAt": "2026-11-19T03:28:32.927710+00:00"
+    }
+  ],
+  "corrections": [
+    {
+      "claim": "Preload starts November 12",
+      "oldSource": "order",
+      "replacement": "November 10 on PS5; available by November 10 on Xbox",
+      "source": "launch"
+    }
+  ]
+}
