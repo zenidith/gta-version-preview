@@ -264,5 +264,16 @@
       "replacement": "November 10 on PS5; available by November 10 on Xbox",
       "source": "launch"
     }
-  ]
+  ],
+  "imagery": {
+    "created": "2026-11-19",
+    "type": "Original SVG editorial illustrations, authored for this site",
+    "files": [
+      "scene-city.svg",
+      "scene-islands.svg",
+      "scene-wetlands.svg"
+    ],
+    "scope": "Imagined coastal city, island road and wetlands. Not gameplay, screenshots, actual game locations, maps or factual evidence. No copied game assets, logos or characters.",
+    "planner": "Reading-route suggestions only. Uses existing guides; no purchase, account mutation or eligibility validation. No data saved or sent."
+  }
 }
