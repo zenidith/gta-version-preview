@@ -1,7 +1,9 @@
-# Static review preview
+# GTA VI field guide: open preview
 
-Temporary English/Japanese review preview of a regional game-language listing checker. Not an official Rockstar, PlayStation or Xbox site.
+Independent, unofficial static preview. Not affiliated with Rockstar Games, Take-Two, Sony or Microsoft. noindex is not access control. No ads, tracking or purchases.
 
-This repository contains only static site files for GitHub Pages. No analytics, accounts, purchases or server components. Every HTML page keeps noindex,nofollow; this is a search-engine request, not access control. Source claims are dated and are not purchased-copy tests.
+Six languages for primary home, topic guides and the regional-language tool: English, Japanese, Spanish, Brazilian Portuguese, Korean, German. Extra languages use ?lang=es, ?lang=pt-BR, ?lang=ko or ?lang=de. Language switching keeps the current topic. The rendered document has the appropriate html lang and six-language hreflang set. The extra four languages are compact localized guides, not full-length translations; translations are not native-reviewed. Legacy EN/JA language explainers remain bilingual.
 
-Global preview: 75 regions checked individually, with 62 verified Sony tables and 40 verified Xbox matrices. 39 language choices, grouped country search, EN/JA parity and a dated source-ledger.json. Missing or cross-country redirected pages remain not verified. Runtime uses global-data.js; old data.js/data.json are unused historical snapshots. No gameplay, entitlement or purchasing availability claims.
+Information and individually fetched PS Store prices checked 19 November 2026. See editorial-ledger.json and source-ledger.json for source scope, timestamps and caveats. No in-game, purchase-entitlement, censorship or benchmark testing is claimed.
+
+Original typography and diagrams, not game artwork or an official map. Korean font is a self-hosted Noto Sans KR subset under SIL OFL 1.1; see FONT-LICENSE.txt.
